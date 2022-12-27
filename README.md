@@ -1,0 +1,14 @@
+# jackpotltexx-user 9 PPR1.180610.011 A530FXXULCUK6 release-keys
+- manufacturer: samsung
+- platform: 
+- codename: jackpotlte
+- flavor: jackpotltexx-user
+- release: 9
+- id: PPR1.180610.011
+- incremental: A530FXXULCUK6
+- tags: release-keys
+- fingerprint: samsung/jackpotltexx/jackpotlte:9/PPR1.180610.011/A530FXXULCUK6:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: jackpotltexx-user-9-PPR1.180610.011-A530FXXULCUK6-release-keys
+- repo: samsung_jackpotlte_dump
